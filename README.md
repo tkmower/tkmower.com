@@ -1,3 +1,3 @@
 # tkmower.com
 
-Source for [tkmower.com](tkmower.com) site
+Source for [tkmower.com](http://www.tkmower.com) site
